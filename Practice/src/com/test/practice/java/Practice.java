@@ -6,5 +6,6 @@ public class Practice {
 		System.out.println("풀받아보세요");
 		System.out.println("일요일싫어");
 		System.out.println("안녕하세요");
+		System.out.println("이클립스멍청이");
 	}
 }
